@@ -80,4 +80,4 @@ This project helped me understand how **Generative AI can support the advertisin
 
 The complete campaign development process is documented in:
 
-**ZestUp_Status_Campaign.pdf**
+**ZestUp_Status_Campaign.pdf**(https://docs.google.com/document/d/11LsOMqMMrA3bBAqkhYwxJYJiCCv2zkeFpdC4Ia-f5XI/edit?usp=sharing)
